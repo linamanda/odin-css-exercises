@@ -1,7 +1,13 @@
 .cooler {
     font-size: 24px;
 }
+
 .odd-num {
     background-color: #f08080;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#one-id {
+    color: #0000ff;
+    font-size: 36px;
 }
