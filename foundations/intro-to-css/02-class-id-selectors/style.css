@@ -11,3 +11,9 @@
     color: #0000ff;
     font-size: 36px;
 }
+
+#another-id {
+    background-color: rgb(95, 229, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
