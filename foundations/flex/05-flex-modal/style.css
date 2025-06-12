@@ -25,6 +25,12 @@ body {
   gap: 10px;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 .header-container {
   display: flex;
   font-size: 20px;
