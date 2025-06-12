@@ -14,6 +14,8 @@ img {
 
 .infograph-container {
   display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 .infograph {
