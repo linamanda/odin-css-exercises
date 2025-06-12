@@ -25,7 +25,7 @@ body {
   justify-content: flex-start;
   align-content: flex-start;
   gap: 24px;
-  margin: 36px;
+  padding: 48px;
 }
 
 .footer {
