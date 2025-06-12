@@ -13,14 +13,19 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
+  padding: 8px;
+  align-items: center;
 }
 
 .left-nav {
   display: flex;
+  gap: 16px;
 }
 
 .right-nav {
   display: flex;
+  margin-left: auto;
+  gap: 16px;
 }
 
 .profile-image {
@@ -55,4 +60,6 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  padding: 0;
+  gap: 16px;
 }
