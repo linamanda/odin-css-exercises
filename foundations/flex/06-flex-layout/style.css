@@ -30,3 +30,22 @@ ul {
   padding: 0;
   list-style-type: none;
 }
+
+.header,
+.content,
+.footer,
+.left-links,
+.right-links {
+  display: flex;
+}
+
+.header,
+.footer {
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.left-links,
+.right-links {
+  gap: 16px;
+}
