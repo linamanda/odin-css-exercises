@@ -16,6 +16,7 @@ body {
   color: white;
   font-size: 32px;
   font-weight: 900;
+  padding: 16px;
 }
 
 .content-container {
@@ -36,6 +37,8 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  text-align: center;
+  padding: 28px;
 }
 
 .sidebar {
