@@ -17,6 +17,8 @@ body {
   font-size: 32px;
   font-weight: 900;
   padding: 16px;
+  display: flex;
+  align-items: center;
 }
 
 .content-container {
@@ -27,7 +29,6 @@ body {
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
   align-content: flex-start;
   gap: 24px;
   padding: 48px;
@@ -37,8 +38,9 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  text-align: center;
-  padding: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
