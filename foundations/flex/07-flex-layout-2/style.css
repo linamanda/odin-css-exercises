@@ -18,6 +18,10 @@ body {
   display: flex;
 }
 
+.card-container {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
